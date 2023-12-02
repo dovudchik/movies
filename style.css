@@ -1,0 +1,98 @@
+body {
+    background-image: url(https://cdn.culture.ru/images/4893d0c9-f8c2-503e-961a-7105b8195317);
+    background-size: cover;
+}
+.movies1 {
+    width: 400px;
+    padding: 15px;
+    border: 4px solid red;
+    background-image: url(https://w.forfun.com/fetch/c8/c85c6f4e228bb91ae0a30fe6f6c813a3.jpeg);
+    color: yellow;
+    display: block;
+    background-size: cover;
+    margin: 16px;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+}
+.movies2 { 
+    width: 400px;
+    padding: 15px;
+    border: 4px solid rgb(4, 110, 40);
+    background-image: url(https://m.media-amazon.com/images/M/MV5BYTM3Mjc0NzEtNThjZC00ZDQwLWE2YTUtNjQ1OTk3N2ZmYjZjXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_SY200_CR78);
+    color: blue;
+    display: block;
+    background-size: cover;
+    margin: 16px;
+    display: inline-block;
+}
+img {
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 50px;
+}
+.movies3 {
+    width: 400px;
+    padding: 15px;
+    border: 4px solid rgb(0, 0, 0);
+    background-image: url(https://2.bp.blogspot.com/-1YWlqa4xkZ0/U_qIO8KIa2I/AAAAAAAAA2Q/kw5Z5u31FT0/s1600/film%252Bbiografi%252Bmasutatsu%252Boyama.jpg);
+    color: #fff;
+    display: block;
+    background-size: cover;
+    margin: 16px;   
+    display: inline-block;
+}
+img {
+    width: 100%;
+}
+.h22{
+    color: #fff;
+    text-align: center;
+}
+.back{
+   color: yellowgreen;
+}
+.kingofweter{
+    border-style: dashed;
+    border-color: blueviolet;
+    color: #fff;
+    width: 900px;
+    margin-inline:auto ;
+    padding:50px;
+    border-width: 10px;
+}
+.kingofwind{
+    background-image: url(https://i.ytimg.com/vi/izwfFsz_4YE/maxresdefault.jpg);
+    background-size: cover;
+}
+.faster{
+    background-image: url(https://kino-kach.ru/_ld/10/15311839.jpg);
+    background-size: cover;
+}
+.fasterthanme{
+    border-style: dashed;
+    border-color: rgb(43, 107, 226);
+    color: #fff;
+    width: 900px;
+    margin-inline:auto ;
+    padding:50px;
+    border-width: 10px; 
+}
+.killabill{
+    background-image: url(https://1.bp.blogspot.com/-ATL0rprCAyw/YVrIkCBbdsI/AAAAAAAB8JQ/ynP6zhSryIQJVVrJUqNMkb_hTu8Xt0IXQCEwYBhgLKtMDABHVOhyetdB_br16tH4ufhggVOXOuZy2X7pyTIR7HIJPYd6s_wpHIW0kOWDaw2ofIcvf_KwSMYPZtS2CpLacTm-tRhtLAUp9QEMK8BsNlSrjjH6K6JO6LcZtQi61lOHM9WCzM50jg3e_yVSTc1aEPrxR1fDtaSvDWp8nkkhgVTjMhB4B7EKVVGA6sCC0CUDaiYltNpUtRu5Um5x7dyjCIen_SIP--o6yl6BaRz9mVtnUrgpLhctxAqqRoiX4SkRpq9fx80p2jyVzGyb0jOxAsYnpWu_7IYhtDtyNFjIBFvzpR4OWCMvlieguRblgSDQ2FiYHO16L6BG-1ar0vaAPlVnPCw7WLxtJDP_K98vXWDQAQwdKm_UQoV6633DoRQ52lig4LodJVmDuhEV-pACGCZfdkrGiBQLV3t76kDGRFMdwzMT9dPa54RRSu_O3rHU2fl5qg-I2IiKf0owkl4bw8nHWDGqHoPsAr46um4aFrDEbia_jg3qFPAjVzxcN42oBlJRFZswc4MAwnJTEik-HQnWrzM8Qm9glBm2Gkova8LH31jl2IYvVpx3b7eggA5hJJBYd8zbC2jy3H7CLVSwP12yh00hHFjzZIDPZvi4Mwfm3HW4wjZfrigY/s2048/Kill%2BBill%2BProduction%2BPhoto%2B135.jpg);
+    background-size: cover; 
+}
+.killabill2{
+    border-style: dashed;
+    border-color: rgb(111, 113, 116);
+    color: #fff;
+    width: 900px;
+    margin-inline:auto ;
+    padding:50px;   
+}
